@@ -74,6 +74,13 @@ body{
   color:#fff;
 }
 
+.nav{
+  display:flex;
+  gap:14px;
+  justify-content:flex-end;
+  flex-wrap:wrap;
+}
+
 /* HERO */
 .hero{
   background:
