@@ -29,11 +29,12 @@ body{
 /* HEADER */
 .header{
   display:flex;
-  flex-direction:column;          /* brand on top, nav below */
   align-items:center;
-  justify-content:center;
-  gap:8px;
+  justify-content:space-between;
+  gap:16px;
+  text-align:left;
 }
+
 
 .brand{
   display:flex;
